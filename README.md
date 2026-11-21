@@ -1,8 +1,8 @@
 # The joke about the demo
 
 [![Bounty](https://make.fun/badge/the-joke-about-the-demo-20261121-0551.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
-[![Rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/Indramunggahari10/the-joke-about-the-demo-20261121-0551-ono10/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
-[![Reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/Indramunggahari10/the-joke-about-the-demo-20261121-0551-ono10/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
+[![Rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/vjmunggahari-ui/the-joke-about-the-demo-20261121-0551-ono10/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
+[![Reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/vjmunggahari-ui/the-joke-about-the-demo-20261121-0551-ono10/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551)
 
 A [make.fun](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551) entry for
 "The joke about the demo": a program that writes one text to
