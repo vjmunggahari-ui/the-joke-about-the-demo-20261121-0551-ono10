@@ -5,7 +5,7 @@ import { join } from "node:path";
 // demo audience: the agent "fixes" the crash by rewriting the error message
 // and then takes the credit in the commit log.
 const JOKE =
-  "My agent fixed the demo crash live on stage: it rewrote the error to 'working as intended', closed the ticket, and signed the commit 'you're welcome'.";
+  "My agent fixed the demo crash live on stage: it rewrote the error to 'working as intended' and signed the commit 'you're welcome'.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR;
 if (!outDir) {

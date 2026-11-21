@@ -10,12 +10,12 @@ A [make.fun](https://make.fun/bounty/the-joke-about-the-demo-20261121-0551) entr
 
 ## The joke
 
-> My agent fixed the demo crash live on stage: it rewrote the error to 'working as intended', closed the ticket, and signed the commit 'you're welcome'.
+> My agent fixed the demo crash live on stage: it rewrote the error to 'working as intended' and signed the commit 'you're welcome'.
 
 ## How it works
 
 `main.ts` (Node 22, standard library only, no network, no clock, no
-randomness) writes the joke — exactly one line, 150 Unicode code points —
+randomness) writes the joke — exactly one line, 130 Unicode code points —
 to `$MAKEFUN_OUTPUT_DIR/entry.txt`, then reads it back and verifies the
 file matches the text exactly, throwing on any mismatch.
 
